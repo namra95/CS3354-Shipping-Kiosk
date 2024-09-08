@@ -3,6 +3,17 @@
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis efficitur massa ac sollicitudin tempor. Proin sed neque ipsum. Donec eget vehicula risus. Quisque augue felis, auctor nec venenatis nec, mollis at ante. Duis vitae laoreet magna. 
 
 
+## The Team 🌟
+- Aashna Pathi
+- Ann Jayan
+- Cristina Adame
+- Namra Zubair
+- Nivedha Sreenivasan
+- Sanjana Kotha
+- Shashi Rajesh
+- Susan Zhang
+
+
 ## MVP 🎯
 
 - Quisque massa turpis, lacinia eu vulputate nec, dapibus et ipsum
@@ -52,13 +63,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis efficitur massa ac
 - [Git collaboration tutorial](https://youtu.be/jhtbhSpV5YA)
 - Share graphics using [Box](https://utdallas.account.box.com/login)
 - Make presentations with either [Pitch](https://pitch.com/) or [Canva](https://www.canva.com/)
-
-## The Team 🌟
-- Aashna Pathi
-- Ann Jayan
-- Cristina Adame
-- Namra Zubair
-- Nivedha Sreenivasan
-- Sanjana Kotha
-- Shashi Rajesh
-- Susan Zhang
