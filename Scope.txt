@@ -1,0 +1,25 @@
+Package Details:
+  - Take estimated package type from the user: legal doc/flat, small, med, large, extra large, etc.
+  - Take weight and dimensions of item to be shipped - through scale and digital tape measure
+  - Determine/dispense necessary wrapping items - box size, tape, bubble wrap
+  - Manage multiple packages at once
+
+Shipping Details:
+  - Validate shipping address
+  - Calculate shipping rate
+  - Show available delivery options
+  - Display available package insurance options
+  - Print shipping label
+
+Payment:
+  - Add up previously calculated cost plus taxes
+  - Process different payment methods – credit/debit cars, store credit, cash
+  - Print receipt
+
+Additional Notary Service:
+  - Display if notary available
+  - Schedule notary for future time
+  - Print ticket to take to notary counter
+
+Other:
+  - Help button
